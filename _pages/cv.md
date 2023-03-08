@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A in Accounting, UEH University, 2014
+* M.S. in Finance, Gachon University, 2018
+* Ph.D in Economics, Binghamton University, 2023 (expected)
 
 Work experience
 ======

@@ -10,3 +10,5 @@ redirect_from:
 
 I am a PhD candidate in Economics. My research interests include labor economics and applied microeconomics, which serve to answer the effects of US immigration policies on immigrants and their US-born children.
 
+You can reach me at ntran7@binghamton.edu
+

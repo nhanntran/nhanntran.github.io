@@ -3,12 +3,11 @@ title: "Teaching Assistant"
 collection: teaching
 type: ""
 permalink: /teaching/2014-spring-teaching-1
-venue: "Binghamton University, Department of Economics"
-date: 2014-01-01
-location: "City, Country"
+location: "Binghamton University"
 ---
 
-## Economic Forecasting ##
+1. Economic Forecasting (Spring 2022)
+2. Macroeconomic Theory I (PhD core- Fall 2022)
 
 Heading 1
 ======

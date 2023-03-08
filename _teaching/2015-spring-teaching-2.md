@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Instructor of Record"
 collection: teaching
 permalink: /teaching/2015-spring-teaching-1
 venue: "Binghamton University, Department of Economics"

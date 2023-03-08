@@ -2,7 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 permalink: /teaching/2014-spring-teaching-1
-location: "Binghamton University"
+venue: "Binghamton University, Department of Economics"
 ---
 
 1. Economic Forecasting (Spring 2022)

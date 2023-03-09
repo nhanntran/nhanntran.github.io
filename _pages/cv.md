@@ -22,7 +22,6 @@ Work experience
 * Summer 2022: Short-term Consultant
   * The World Bank
 
-
 * 2013-2015: Auditor
   * Deloitte Vietnam
 

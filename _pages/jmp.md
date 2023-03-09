@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "JMP"
+permalink: /jmp/
 author_profile: true
 ---
 

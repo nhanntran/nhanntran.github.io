@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.A in Accounting, UEH University, 2014
+* Ph.D in Economics, Binghamton University, 2019-2023 (expected)
 * M.S. in Finance, Gachon University, 2018
-* Ph.D in Economics, Binghamton University, 2023 (expected)
+* B.A in Accounting, UEH University, 2014
+
+
 
 Work experience
 ======

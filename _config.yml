@@ -178,7 +178,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   jmp:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true
